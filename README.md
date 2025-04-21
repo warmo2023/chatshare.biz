@@ -1,49 +1,74 @@
 <header>
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+<header>
 
-# GitHub Pages
+# chatshare.xyz和chatshare.biz的差别和渠道！
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+chatshare.xyz和chatshare.biz是两个被比较的平台，分别在其功能特性和获取渠道有所不同。
+
+本文旨在探讨它们的差异，以及提供如何获取并使用的平台信息。
+
+此外，还提及其他一些相关资源和模板推荐以满足用户需求-->
+
+
+# 主要区分关键点
+
+● chatshare.xyz和chatshare.biz是两个提供在线服务的不同平台。
+
+● 主要都是提供国内模型服务的镜像平台
+
+● biz站主要提供官网PLUS和克劳德服务  比较便宜    大概70-90不等
+
+● xyz站主要提供官网PRO和Grok服务     市面价格贵 大概299/月
+
+● 具体的差异点：https://h5ma.cn/feishu
+
+● 如果有需要激活码可联系V：caicats 购买获取 添加请备注来意购买
+
+● 两个平台在功能特性和服务渠道方面存在差异，价格差异较大。
 
 </header>
 
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
+biz适用平常用户适用，
 
-## Step 1: Enable GitHub Pages
+xyz适用科研单位和一些需求高的用户适用。
 
-_Welcome to GitHub Pages and Jekyll :tada:!_
+最后提供了一些关于这些的站的激活码和如何获取和访问这些平台的方法。
 
-The first step is to enable GitHub Pages on this [repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
 
-### :keyboard: Activity: Enable GitHub Pages
+# # BIZ激活码和渠道
 
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. Under your repository name, click **Settings**.
-1. Click **Pages** in the **Code and automation** section.
-1. Ensure "Deploy from a branch" is selected from the **Source** drop-down menu, and then select `main` from the **Branch** drop-down menu.
-1. Click the **Save** button.
-1. Wait about _one minute_ then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-   > Turning on GitHub Pages creates a deployment of your repository. GitHub Actions may take up to a minute to respond while waiting for the deployment. Future steps will be about 20 seconds; this step is slower.
-   > **Note**: In the **Pages** of **Settings**, the **Visit site** button will appear at the top. Click the button to see your GitHub Pages site.
+以下是chatshare.biz激活码 x 4
 
-<footer>
+● 30HoWpJI1KpCQ30T8Mq
 
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+● 30T8MqW40YsCoAf4xc9
+
+● 30TGseMmJtkwhvDSjKV
+
+● 30TtgZLGKQNWGia1igG
+
+# # 以下是chatshare.xyz激活码 x 4
+
+● 30KpCQ30T8MqHoWpJI1
+
+● 30T8CoAf4xc9MqW40Ys
+
+● 30TvkwhDSjKVGseMmJt
+
+● 30QNWGia1igGTtgZLGK
+
+Chatshare激活码使用地址：
+
+https://chatshare.biz/
+
+https://chatshare.xyz/
+
+如上述激活码领取完点此获取：
+
+http://h5ma.cn/ngi
+
+如果有需要激活码可联系V：caicats 购买获取 添加请备注来意购买
 
 ---
 
